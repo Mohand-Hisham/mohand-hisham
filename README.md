@@ -21,8 +21,7 @@ Focused on creating **clean code** and **smooth user experiences** with React.js
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ---
 

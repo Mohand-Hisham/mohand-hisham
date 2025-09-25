@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohand Hisham  
 
-<!--
-**Mohand-Hisham/mohand-hisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **React Developer | JavaScript Enthusiast | Frontend Engineer**
 
-Here are some ideas to get you started:
+I love building modern, responsive, and user-friendly web applications.  
+Focused on creating **clean code** and **smooth user experiences** with React.js and modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- ⚛️ React.js | Next.js
+- 🎨 Tailwind CSS | CSS3 | HTML5
+- 🔧 JavaScript (ES6+)
+- ⚙️ Git | GitHub | VS Code
+
+---
+
+## 📂 Featured Projects
+- [**OmniFood**](https://omnifood-mohandd.netlify.app/)
+
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+- 📩 [Email](mohandhisham4@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)

@@ -17,7 +17,7 @@ Focused on creating **clean code** and **smooth user experiences** with React.js
 
 ## 📂 Featured Projects
 - [**OmniFood**](https://omnifood-mohandd.netlify.app/)
-- [**Tic-Tac-Toe-game**]([https://github.com/Mohand-Hisham/Tic-Tac-Toe-game](https://react-tic-tac-toe-application.netlify.app/))
+- [**Tic-Tac-Toe-game**]([https://github.com/Mohand-Hisham/Tic-Tac-Toe-game](https://react-tic-tac-toe-application.netlify.app/)
 - [**Appie**](https://appie-mohandd.netlify.app/)
 
 
